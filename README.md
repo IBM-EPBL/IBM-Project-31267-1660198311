@@ -11,7 +11,7 @@ Industry Mentor(s) Name: Shanthi
 
 Faculty Mentor(s) Name: Deepa K R
 
-#Batch Members
+# Batch Members
 
 - Gowtham R
 - Kathirvel T
